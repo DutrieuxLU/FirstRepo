@@ -1,0 +1,1 @@
+All of the dragging functions (in the mathsfunctions.js file) were taken from [this block](http://bl.ocks.org/ivyywang/7c94cb5a3accd9913263). I simplified the code somewhat and only kept what is essential to the dragging functionality, then added zoom. It always zooms to the center, never to the sides of the globe. Zoom is bounded between 0.75 and 50.
